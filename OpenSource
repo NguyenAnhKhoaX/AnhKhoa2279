@@ -1,0 +1,2 @@
+local code = game:HttpGet("https://api.mspaint.cc/reserve/" .. tostring(game.PlaceId))
+            game:GetService("RobloxReplicatedStorage").ContactListIrisInviteTeleport:FireServer(game.PlaceId, "", code)
