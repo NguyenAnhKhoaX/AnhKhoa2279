@@ -4,7 +4,7 @@ You Want old Version, you can make this
 
 getgenv().Version = "v3" -- v3 new version, v2 normal version (i think it), v1 old version
 getgenv().Team = "Pirates"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NguyenAnhKhoaX/AnhKhoa2279/refs/heads/main/6215485227992453.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NguyenAnhKhoaX/AnhKhoa2279/refs/heads/main/NazuXHubMain.lua"))()
 
 --]]
 
